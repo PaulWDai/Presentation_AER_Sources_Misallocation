@@ -1,4 +1,4 @@
-# Presentation_Sources_Misallocation
+# Presentation_AER_Sources_Misallocation
 
 A presentation slides for David and Venkateswaran (2019 AER): The Sources of Capital Misallocation when I auditing 2nd year PhD courses Quatitative Macro.
 
